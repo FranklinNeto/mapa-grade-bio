@@ -1,0 +1,3404 @@
+[
+  {
+    "course": 0,
+    "period": 1,
+    "code": "FEF012",
+    "name": "PSICOLOGIA DA EDUCACÃO I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 1,
+    "code": "IBB083",
+    "name": "PRÁTICA CURRICULAR EM TECNOLOGIA DA INFORMAÇÃO E",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 1,
+    "code": "IBB200",
+    "name": "BIOLOGIA E SOCIEDADE",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 1,
+    "code": "IBB210",
+    "name": "FUNDAMENTOS DE PESQUISA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 1,
+    "code": "IBF042",
+    "name": "BIOFÍSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 1,
+    "code": "IBM042",
+    "name": "BIOLOGIA CELULAR",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 1,
+    "code": "IBM211",
+    "name": "FUNDAMENTOS DE ANATOMIA A",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 1,
+    "code": "IEQ057",
+    "name": "QUIMICA GERAL FUNDAMENTAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 2,
+    "code": "FEF022",
+    "name": "PSICOLOGIA DA EDUCACÃO II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FEF012",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 2,
+    "code": "IBB250",
+    "name": "ECOLOGIA DE POPULAÇÕES",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 2,
+    "code": "IBF046",
+    "name": "BIOQUÍMICA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 2,
+    "code": "IBM044",
+    "name": "HISTOLOGIA COMPARADA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 2,
+    "code": "IBP024",
+    "name": "MICROBIOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 2,
+    "code": "IEE006",
+    "name": "BIOESTATISTICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 3,
+    "code": "FEA009",
+    "name": "LEGISLAÇÃO DO ENSINO BÁSICO",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 3,
+    "code": "IBB230",
+    "name": "INVERTEBRADOS I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 3,
+    "code": "IBB240",
+    "name": "MORFOLOGIA E TAXONOMIA DE CRIPTÓGAMAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 3,
+    "code": "IBF047",
+    "name": "BIOQUÍMICA II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF046",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 3,
+    "code": "IBM047",
+    "name": "BIOLOGIA DO DESENVOLVIMENTO",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM044",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 3,
+    "code": "IBM048",
+    "name": "PRÁTICA CURRICULAR EM MORFOLOGIA E BIOLOGIA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM044",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 3,
+    "code": "IBP025",
+    "name": "MICOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 4,
+    "code": "FET121",
+    "name": "DIDATICA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FEF022",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 4,
+    "code": "IBB084",
+    "name": "GENÉTICA CLÁSSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 4,
+    "code": "IBB085",
+    "name": "PRÁTICA CURRICULAR EM ECOLOGIA E BIOESTATÍSTICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB250",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 4,
+    "code": "IBB231",
+    "name": "INVERTEBRADOS II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB230",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 4,
+    "code": "IBB241",
+    "name": "MORFOLOGIA E TAXONOMIA DE ESPERMATÓFITAS I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB240",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 4,
+    "code": "IBF201",
+    "name": "FISIOLOGIA HUMANA BÁSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF047",
+        "block": 1
+      },
+      {
+        "code": "IBM211",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 5,
+    "code": "IBB087",
+    "name": "ESTÁGIO SUPERVISIONADO DE ENSINO DE BIOLOGIA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FET121",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 5,
+    "code": "IBB088",
+    "name": "PRÁTICA CURRICULAR EM INSTRUMENTAÇÃO PARA O",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FET121",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 5,
+    "code": "IBB221",
+    "name": "BIOLOGIA MOLECULAR",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      },
+      {
+        "code": "IBF047",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 5,
+    "code": "IBB232",
+    "name": "VERTEBRADOS I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB230",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 5,
+    "code": "IBB242",
+    "name": "MORFOLOGIA E TAXONOMIA DE ESPERMATOFITAS II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB241",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 5,
+    "code": "IBF039",
+    "name": "PRÁTICA CURRICULAR EM FISIOLOGIA HUMANA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF201",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 6,
+    "code": "IBB089",
+    "name": "ESTÁGIO SUPERVISIONADO DE ENSINO DE BIOLOGIA II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB087",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 6,
+    "code": "IBB090",
+    "name": "PRÁTICA CURICULAR EM EDUCAÇÃO AMBIENTAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FET121",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 6,
+    "code": "IBB233",
+    "name": "VERTEBRADOS II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB232",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 6,
+    "code": "IBB243",
+    "name": "ANATOMIA VEGETAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB241",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 6,
+    "code": "IBF202",
+    "name": "FISIOLOGIA ANIMAL COMPARADA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB232",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 6,
+    "code": "IEG004",
+    "name": "FUNDAMENTOS DE GEOLOGIA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 7,
+    "code": "IBB086",
+    "name": "PRÁTICA CURRICULAR EM ZOOLOGIA E BOTÂNICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB230",
+        "block": 1
+      },
+      {
+        "code": "IBB240",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 7,
+    "code": "IBB092",
+    "name": "EVOLUÇÃO",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 7,
+    "code": "IBB093",
+    "name": "ESTÁGIO SUPERVISIONADO DE ENSINO DE BIOLOGIA III",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB089",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 7,
+    "code": "IBB094",
+    "name": "PRÁTICA CURRICULAR EM TECNOLOGIA DA INFORMAÇÃO E",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB083",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 7,
+    "code": "IBB620",
+    "name": "FISIOLOGIA VEGETAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB243",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 7,
+    "code": "IEG006",
+    "name": "HISTÓRIA ECOLÓGICA DA TERRA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 7,
+    "code": "IHP123",
+    "name": "LINGUA BRASILEIRA DE SINAIS B",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": 8,
+    "code": "IBB095",
+    "name": "ESTÁGIO SUPERVISIONADO DE ENSINO DE BIOLOGIA IV",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB093",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 8,
+    "code": "IBB096",
+    "name": "PRÁTICA CURICULAR EM GENÉTICA E EVOLUÇÃO",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 8,
+    "code": "IBB251",
+    "name": "ECOLOGIA DE COMUNIDADES E ECOSSISTEMAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB250",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 8,
+    "code": "IBP026",
+    "name": "IMUNOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBF201",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 8,
+    "code": "IBP033",
+    "name": "PARASITOLOGIA BÁSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB231",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": 8,
+    "code": "IBP034",
+    "name": "PRÁTICA CURICULAR EM PARASITOLOGIA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB233",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB021",
+    "name": "BIOLOGIA DA CONSERVAÇÃO",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB076",
+    "name": "FUNDAMENTOS DA PESQUISA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB097",
+    "name": "PRÁTICA DE CAMPO",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB098",
+    "name": "COMUNICAÇÃO CIENTÍFICA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB210",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB099",
+    "name": "INTRODUÇÃO À ANÁLISE DE DADOS BIOLÓGICOS",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB101",
+    "name": "BIOESTATÍSTICA APLICADA I",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB099",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB102",
+    "name": "BIOESTATÍSTICA APLICADA II",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB101",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB103",
+    "name": "REGULAÇÃO DA EXPRESSÃO GÊNICA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB221",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB104",
+    "name": "CITOGENÔMICA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      },
+      {
+        "code": "IBB221",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB114",
+    "name": "INICIAÇÃO A ILUSTRAÇÃO CIENTÍFICA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB115",
+    "name": "MACRÓFITAS AQUÁTICAS",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB241",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB116",
+    "name": "FITOGEOGRAFIA DA AMAZÔNIA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB117",
+    "name": "MANEJO DA FAUNA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB223",
+    "name": "FUNDAMENTOS DE ENGENHARIA GENÉTICA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB103",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB224",
+    "name": "GENÉTICA DE POPULAÇÕES",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      },
+      {
+        "code": "IBB092",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB229",
+    "name": "GENÉTICA DA CONSERVAÇÃO",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB224",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB234",
+    "name": "FUNDAMENTOS DE SISTEMÁTICA ZOOLÓGICA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB231",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB235",
+    "name": "MANEJO DA FAUNA SILVESTRE",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB245",
+    "name": "BIOLOGIA REPRODUTIVA DE PLANTAS SUPERIORES",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB242",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB246",
+    "name": "CULTURA DE TECIDOS VEGETAIS",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB243",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB254",
+    "name": "GESTÃO AMBIENTAL",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB256",
+    "name": "BIOLOGIA AQUÁTICA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBB257",
+    "name": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBF013",
+    "name": "BIOFÍSICA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBF048",
+    "name": "COMPORTAMENTO ANIMAL",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBP027",
+    "name": "MICOLOGIA APLICADA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBP025",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBP042",
+    "name": "MICROBIOLOGIA DO SOLO",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBP043",
+    "name": "TÓPICOS ESPECIAIS EM VIROLOGIA",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 0,
+    "period": null,
+    "code": "IBP044",
+    "name": "IMUNOLOGIA DE PEIXES",
+    "category": "OPTATIVA",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 1,
+    "code": "IBB083",
+    "name": "PRÁTICA CURRICULAR EM TECNOLOGIA DA INFORMAÇÃO E",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 1,
+    "code": "IBB200",
+    "name": "BIOLOGIA E SOCIEDADE",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 1,
+    "code": "IBB210",
+    "name": "FUNDAMENTOS DE PESQUISA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 1,
+    "code": "IBF042",
+    "name": "BIOFÍSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 1,
+    "code": "IBM042",
+    "name": "BIOLOGIA CELULAR",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 1,
+    "code": "IBM211",
+    "name": "FUNDAMENTOS DE ANATOMIA A",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 1,
+    "code": "IEQ057",
+    "name": "QUIMICA GERAL FUNDAMENTAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 2,
+    "code": "FEA009",
+    "name": "LEGISLAÇÃO DO ENSINO BÁSICO",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 2,
+    "code": "FEF012",
+    "name": "PSICOLOGIA DA EDUCACÃO I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 2,
+    "code": "IBB250",
+    "name": "ECOLOGIA DE POPULAÇÕES",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 2,
+    "code": "IBF046",
+    "name": "BIOQUÍMICA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 2,
+    "code": "IBM044",
+    "name": "HISTOLOGIA COMPARADA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 2,
+    "code": "IEE006",
+    "name": "BIOESTATISTICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 3,
+    "code": "FEF022",
+    "name": "PSICOLOGIA DA EDUCACÃO II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FEF012",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 3,
+    "code": "IBB230",
+    "name": "INVERTEBRADOS I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 3,
+    "code": "IBB240",
+    "name": "MORFOLOGIA E TAXONOMIA DE CRIPTÓGAMAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 3,
+    "code": "IBF047",
+    "name": "BIOQUÍMICA II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF046",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 3,
+    "code": "IBM047",
+    "name": "BIOLOGIA DO DESENVOLVIMENTO",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM044",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 3,
+    "code": "IBM048",
+    "name": "PRÁTICA CURRICULAR EM MORFOLOGIA E BIOLOGIA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM044",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 4,
+    "code": "IBB084",
+    "name": "GENÉTICA CLÁSSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 4,
+    "code": "IBB085",
+    "name": "PRÁTICA CURRICULAR EM ECOLOGIA E BIOESTATÍSTICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB250",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 4,
+    "code": "IBB231",
+    "name": "INVERTEBRADOS II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB230",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 4,
+    "code": "IBB241",
+    "name": "MORFOLOGIA E TAXONOMIA DE ESPERMATÓFITAS I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB240",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 4,
+    "code": "IBF201",
+    "name": "FISIOLOGIA HUMANA BÁSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF047",
+        "block": 1
+      },
+      {
+        "code": "IBM211",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 5,
+    "code": "FET121",
+    "name": "DIDATICA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FEF022",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 5,
+    "code": "IBB086",
+    "name": "PRÁTICA CURRICULAR EM ZOOLOGIA E BOTÂNICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB230",
+        "block": 1
+      },
+      {
+        "code": "IBB240",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 5,
+    "code": "IBB221",
+    "name": "BIOLOGIA MOLECULAR",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      },
+      {
+        "code": "IBF047",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 5,
+    "code": "IBB232",
+    "name": "VERTEBRADOS I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB230",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 5,
+    "code": "IBB242",
+    "name": "MORFOLOGIA E TAXONOMIA DE ESPERMATOFITAS II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB241",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 5,
+    "code": "IBF039",
+    "name": "PRÁTICA CURRICULAR EM FISIOLOGIA HUMANA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF201",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 6,
+    "code": "IBB087",
+    "name": "ESTÁGIO SUPERVISIONADO DE ENSINO DE BIOLOGIA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FET121",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 6,
+    "code": "IBB088",
+    "name": "PRÁTICA CURRICULAR EM INSTRUMENTAÇÃO PARA O",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "FET121",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 6,
+    "code": "IBB233",
+    "name": "VERTEBRADOS II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB232",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 6,
+    "code": "IBB243",
+    "name": "ANATOMIA VEGETAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB241",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 6,
+    "code": "IBF202",
+    "name": "FISIOLOGIA ANIMAL COMPARADA",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB232",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 6,
+    "code": "IBP026",
+    "name": "IMUNOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF201",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 7,
+    "code": "IBB089",
+    "name": "ESTÁGIO SUPERVISIONADO DE ENSINO DE BIOLOGIA II",
+    "category": "OBRIGATÓRIAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB087",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 7,
+    "code": "IBB090",
+    "name": "PRÁTICA CURICULAR EM EDUCAÇÃO AMBIENTAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "FET121",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 7,
+    "code": "IBB620",
+    "name": "FISIOLOGIA VEGETAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB243",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 7,
+    "code": "IBP024",
+    "name": "MICROBIOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBM042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 7,
+    "code": "IBP025",
+    "name": "MICOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBM042",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 8,
+    "code": "IBB092",
+    "name": "EVOLUÇÃO",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 8,
+    "code": "IBB093",
+    "name": "ESTÁGIO SUPERVISIONADO DE ENSINO DE BIOLOGIA III",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB089",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 8,
+    "code": "IBB094",
+    "name": "PRÁTICA CURRICULAR EM TECNOLOGIA DA INFORMAÇÃO E",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB083",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 8,
+    "code": "IBB251",
+    "name": "ECOLOGIA DE COMUNIDADES E ECOSSISTEMAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB250",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 8,
+    "code": "IBP033",
+    "name": "PARASITOLOGIA BÁSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB231",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 8,
+    "code": "IEG004",
+    "name": "FUNDAMENTOS DE GEOLOGIA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 9,
+    "code": "IBB095",
+    "name": "ESTÁGIO SUPERVISIONADO DE ENSINO DE BIOLOGIA IV",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB093",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 9,
+    "code": "IBB096",
+    "name": "PRÁTICA CURICULAR EM GENÉTICA E EVOLUÇÃO",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 9,
+    "code": "IBP034",
+    "name": "PRÁTICA CURICULAR EM PARASITOLOGIA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB233",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": 9,
+    "code": "IEG006",
+    "name": "HISTÓRIA ECOLÓGICA DA TERRA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": 9,
+    "code": "IHP123",
+    "name": "LINGUA BRASILEIRA DE SINAIS B",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB021",
+    "name": "BIOLOGIA DA CONSERVAÇÃO",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB097",
+    "name": "PRÁTICA DE CAMPO",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB098",
+    "name": "COMUNICAÇÃO CIENTÍFICA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB210",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB099",
+    "name": "INTRODUÇÃO À ANÁLISE DE DADOS BIOLÓGICOS",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB101",
+    "name": "BIOESTATÍSTICA APLICADA I",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB099",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB102",
+    "name": "BIOESTATÍSTICA APLICADA II",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB101",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB103",
+    "name": "REGULAÇÃO DA EXPRESSÃO GÊNICA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB221",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB104",
+    "name": "CITOGENÔMICA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      },
+      {
+        "code": "IBB221",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB115",
+    "name": "MACRÓFITAS AQUÁTICAS",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB241",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB116",
+    "name": "FITOGEOGRAFIA DA AMAZÔNIA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB117",
+    "name": "MANEJO DA FAUNA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB223",
+    "name": "FUNDAMENTOS DE ENGENHARIA GENÉTICA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB103",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB224",
+    "name": "GENÉTICA DE POPULAÇÕES",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB084",
+        "block": 1
+      },
+      {
+        "code": "IBB092",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB229",
+    "name": "GENÉTICA DA CONSERVAÇÃO",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB224",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB234",
+    "name": "FUNDAMENTOS DE SISTEMÁTICA ZOOLÓGICA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB231",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB235",
+    "name": "MANEJO DA FAUNA SILVESTRE",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB245",
+    "name": "BIOLOGIA REPRODUTIVA DE PLANTAS SUPERIORES",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB242",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB246",
+    "name": "CULTURA DE TECIDOS VEGETAIS",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB243",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB254",
+    "name": "GESTÃO AMBIENTAL",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB256",
+    "name": "BIOLOGIA AQUÁTICA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBB257",
+    "name": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB251",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBF013",
+    "name": "BIOFÍSICA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBF048",
+    "name": "COMPORTAMENTO ANIMAL",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 1,
+    "period": null,
+    "code": "IBP027",
+    "name": "MICOLOGIA APLICADA",
+    "category": "OPTATIVAS",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBP025",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 3,
+    "code": "IBG011",
+    "name": "OFICINAS DE GENÉTICA E EVOLUÇÃO",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 4,
+    "code": "IBB645",
+    "name": "OFICINAS DE PARATAXONOMIA BOTÂNICA",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBB644",
+    "name": "OFICINAS DE ILUSTRAÇÃO BIOLÓGICA",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IBB646",
+    "name": "ATIVIDADE DE EXTENSÃO A",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IBF089",
+    "name": "ATIVIDADE DE EXTENSÃO B",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IBG012",
+    "name": "ATIVIDADE DE EXTENSÃO C",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IBM095",
+    "name": "ATIVIDADE DE EXTENSÃO D",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IBP054",
+    "name": "ATIVIDADE DE EXTENSÃO E",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IEG194",
+    "name": "OFICINAS DE PALEONTOLOGIA",
+    "category": "ATIVIDADES CURRICULARES ELETIVAS DE EXTENSÃO",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB102",
+    "name": "BIOESTATÍSTICA APLICADA II",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB101",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB108",
+    "name": "BIOLOGIA DE CAMPO",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB110",
+    "name": "ECOLOGIA E MANEJO DE ECOSSISTEMAS AQUÁTICOS",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB111",
+    "name": "INVENTÁRIO FLORÍSTICO",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB112",
+    "name": "BIOLOGIA DE ARACNÍDEOS",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB231",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB117",
+    "name": "MANEJO DA FAUNA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB120",
+    "name": "ECOTOXICOLOGIA E AVALIAÇÃO DE RISCOS AMBIENTAIS",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB246",
+    "name": "CULTURA DE TECIDOS VEGETAIS",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB647",
+    "name": "EMPREENDEDORISMO SUSTENTÁVEL",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB648",
+    "name": "FLORESTAS URBANAS",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB649",
+    "name": "ETNOBIOLOGIA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBF010",
+    "name": "FARMACOLOGIA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF201",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBF048",
+    "name": "COMPORTAMENTO ANIMAL",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF202",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBF090",
+    "name": "FARMACOLOGIA CLÍNICA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF010",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBG001",
+    "name": "FUNDAMENTOS DE ENGENHARIA GENÉTICA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBF047",
+        "block": 1
+      },
+      {
+        "code": "IBG006",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBG002",
+    "name": "GENÉTICA DA CONSERVAÇÃO",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBG008",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBG003",
+    "name": "REGULAÇÃO DA EXPRESSÃO GÊNICA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBG007",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBG005",
+    "name": "MARCADORES MOLECULARES",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBG013",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBG013",
+    "name": "BIOINFORMÁTICA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBG007",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBG014",
+    "name": "CITOGENÉTICA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBG006",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBG015",
+    "name": "EVOLUÇÃO MOLECULAR",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBG007",
+        "block": 1
+      },
+      {
+        "code": "IBG017",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBM049",
+    "name": "ANATOMIA COMPARADA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM091",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBM050",
+    "name": "PATOLOGIA GERAL PARA BIOLOGIA",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM044",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBM096",
+    "name": "FUNDAMENTOS DA ANTROPOLOGIA FORENSE",
+    "category": "ELETIVAS",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBM091",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBB639",
+    "name": "ESTÁGIO DE PESQUISA II A",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB638",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBF087",
+    "name": "ESTÁGIO DE PESQUISA II B",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 1,
+    "req": [
+      {
+        "code": "IBB638",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBG009",
+    "name": "ESTÁGIO DE PESQUISA II C",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB638",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBM093",
+    "name": "ESTÁGIO DE PESQUISA II D",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB638",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBP052",
+    "name": "ESTÁGIO DE PESQUISA II E",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB638",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IEG192",
+    "name": "ESTÁGIO DE PESQUISA II F",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB638",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBB640",
+    "name": "ESTÁGIO DE PESQUISA III A",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB639",
+        "block": 1
+      },
+      {
+        "code": "IBF087",
+        "block": 2
+      },
+      {
+        "code": "IBG009",
+        "block": 3
+      },
+      {
+        "code": "IBM093",
+        "block": 4
+      },
+      {
+        "code": "IBP052",
+        "block": 5
+      },
+      {
+        "code": "IEG192",
+        "block": 6
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBF088",
+    "name": "ESTÁGIO DE PESQUISA III B",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB639",
+        "block": 1
+      },
+      {
+        "code": "IBF087",
+        "block": 2
+      },
+      {
+        "code": "IBG009",
+        "block": 3
+      },
+      {
+        "code": "IBM093",
+        "block": 4
+      },
+      {
+        "code": "IBP052",
+        "block": 5
+      },
+      {
+        "code": "IEG192",
+        "block": 6
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBG010",
+    "name": "ESTÁGIO DE PESQUISA III C",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB639",
+        "block": 1
+      },
+      {
+        "code": "IBF087",
+        "block": 2
+      },
+      {
+        "code": "IBG009",
+        "block": 3
+      },
+      {
+        "code": "IBM093",
+        "block": 4
+      },
+      {
+        "code": "IBP052",
+        "block": 5
+      },
+      {
+        "code": "IEG192",
+        "block": 6
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBM094",
+    "name": "ESTÁGIO DE PESQUISA III D",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB639",
+        "block": 1
+      },
+      {
+        "code": "IBF087",
+        "block": 2
+      },
+      {
+        "code": "IBG009",
+        "block": 3
+      },
+      {
+        "code": "IBM093",
+        "block": 4
+      },
+      {
+        "code": "IBP052",
+        "block": 5
+      },
+      {
+        "code": "IEG192",
+        "block": 6
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBP053",
+    "name": "ESTÁGIO DE PESQUISA III E",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB639",
+        "block": 1
+      },
+      {
+        "code": "IBF087",
+        "block": 2
+      },
+      {
+        "code": "IBG009",
+        "block": 3
+      },
+      {
+        "code": "IBM093",
+        "block": 4
+      },
+      {
+        "code": "IBP052",
+        "block": 5
+      },
+      {
+        "code": "IEG192",
+        "block": 6
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IEG193",
+    "name": "ESTÁGIO DE PESQUISA III F",
+    "category": "ESTÁGIOS CURRICULARES ELETIVOS DE PESQUISA",
+    "page": 2,
+    "req": [
+      {
+        "code": "IBB639",
+        "block": 1
+      },
+      {
+        "code": "IBF087",
+        "block": 2
+      },
+      {
+        "code": "IBG009",
+        "block": 3
+      },
+      {
+        "code": "IBM093",
+        "block": 4
+      },
+      {
+        "code": "IBP052",
+        "block": 5
+      },
+      {
+        "code": "IEG192",
+        "block": 6
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 1,
+    "code": "IBB631",
+    "name": "BIOLOGIA E SOCIEDADE",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 1,
+    "code": "IBB632",
+    "name": "DIVERSIFICAÇÃO E CLASSIFICAÇÃO DAS PLANTAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 1,
+    "code": "IBB633",
+    "name": "FUNDAMENTOS DA PESQUISA CIENTÍFICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 1,
+    "code": "IBF086",
+    "name": "BIOFÍSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 1,
+    "code": "IBM091",
+    "name": "FUNDAMENTOS DE ANATOMIA HUMANA",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 1,
+    "code": "IBM622",
+    "name": "BIOLOGIA CELULAR",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 1,
+    "code": "IEQ603",
+    "name": "QUÍMICA GERAL FUNDAMENTAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 2,
+    "code": "IBB099",
+    "name": "INTRODUÇÃO À ANÁLISE DE DADOS BIOLÓGICOS",
+    "category": "OBRIGATÓRIAS",
+    "page": 2,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 2,
+    "code": "IBB240",
+    "name": "MORFOLOGIA E TAXONOMIA DE CRIPTÓGAMAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB632",
+        "block": 1
+      },
+      {
+        "code": "IBM622",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 2,
+    "code": "IBB250",
+    "name": "ECOLOGIA DE POPULAÇÕES",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 2,
+    "code": "IBF046",
+    "name": "BIOQUÍMICA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBM622",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 2,
+    "code": "IBG006",
+    "name": "INTRODUÇÃO À GENÉTICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBM622",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 2,
+    "code": "IBP024",
+    "name": "MICROBIOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBM622",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 2,
+    "code": "IEE006",
+    "name": "BIOESTATISTICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 3,
+    "code": "IBB101",
+    "name": "BIOESTATÍSTICA APLICADA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB099",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 3,
+    "code": "IBB230",
+    "name": "INVERTEBRADOS I",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 3,
+    "code": "IBB257",
+    "name": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 3,
+    "code": "IBB634",
+    "name": "ANATOMIA DE ESPERMATÓFITAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB632",
+        "block": 1
+      },
+      {
+        "code": "IBM622",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 3,
+    "code": "IBF047",
+    "name": "BIOQUÍMICA II",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBF046",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 3,
+    "code": "IBM092",
+    "name": "BIOLOGIA DO DESENVOLVIMENTO",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBG006",
+        "block": 1
+      },
+      {
+        "code": "IBM622",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 4,
+    "code": "IBB098",
+    "name": "COMUNICAÇÃO CIENTÍFICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB633",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 4,
+    "code": "IBB231",
+    "name": "INVERTEBRADOS II",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB230",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 4,
+    "code": "IBF201",
+    "name": "FISIOLOGIA HUMANA BÁSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBF047",
+        "block": 1
+      },
+      {
+        "code": "IBM091",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 4,
+    "code": "IBG017",
+    "name": "BIOLOGIA EVOLUTIVA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBG006",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 4,
+    "code": "IBM044",
+    "name": "HISTOLOGIA COMPARADA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBM622",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 4,
+    "code": "IEG004",
+    "name": "FUNDAMENTOS DE GEOLOGIA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 5,
+    "code": "IBB232",
+    "name": "VERTEBRADOS I",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB230",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 5,
+    "code": "IBB251",
+    "name": "ECOLOGIA DE COMUNIDADES E ECOSSISTEMAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB250",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 5,
+    "code": "IBB620",
+    "name": "FISIOLOGIA VEGETAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB634",
+        "block": 1
+      },
+      {
+        "code": "IBF047",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 5,
+    "code": "IBB638",
+    "name": "ESTÁGIO DE PESQUISA I",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB099",
+        "block": 1
+      },
+      {
+        "code": "IBB633",
+        "block": 1
+      },
+      {
+        "code": "IEE006",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 5,
+    "code": "IBG007",
+    "name": "BIOLOGIA MOLECULAR",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBF047",
+        "block": 1
+      },
+      {
+        "code": "IBG006",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 5,
+    "code": "IBP025",
+    "name": "MICOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBP024",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 5,
+    "code": "IEG191",
+    "name": "FUNDAMENTOS DE PALEONTOLOGIA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBB233",
+    "name": "VERTEBRADOS II",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB232",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBB635",
+    "name": "MORFOLOGIA DE ESPERMATÓFITAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB634",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBF202",
+    "name": "FISIOLOGIA ANIMAL COMPARADA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB232",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBP026",
+    "name": "IMUNOLOGIA GERAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBF201",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 6,
+    "code": "IBP033",
+    "name": "PARASITOLOGIA BÁSICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB231",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBB636",
+    "name": "SISTEMÁTICA DE ESPERMATÓFITAS",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB635",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBB637",
+    "name": "BIOLOGIA DA CONSERVAÇÃO",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 7,
+    "code": "IBG008",
+    "name": "MICROEVOLUÇÃO",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBG006",
+        "block": 1
+      },
+      {
+        "code": "IBG017",
+        "block": 1
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IBB641",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": [
+      {
+        "code": "IBB639",
+        "block": 1
+      },
+      {
+        "code": "IBF087",
+        "block": 2
+      },
+      {
+        "code": "IBG009",
+        "block": 3
+      },
+      {
+        "code": "IBM093",
+        "block": 4
+      },
+      {
+        "code": "IBP052",
+        "block": 5
+      },
+      {
+        "code": "IEG192",
+        "block": 6
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IBB642",
+    "name": "GESTÃO AMBIENTAL",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": 8,
+    "code": "IBB643",
+    "name": "MOSTRA CIENTÍFICA",
+    "category": "OBRIGATÓRIAS",
+    "page": 3,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB113",
+    "name": "ECOLOGIA DE PAISAGEM",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB114",
+    "name": "INICIAÇÃO A ILUSTRAÇÃO CIENTÍFICA",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB116",
+    "name": "FITOGEOGRAFIA DA AMAZÔNIA",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB122",
+    "name": "MORFOLOGIA DE SEMENTES E PLÂNTULAS TROPICAIS",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB125",
+    "name": "PARATAXONOMIA BOTÂNICA",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB245",
+    "name": "BIOLOGIA REPRODUTIVA DE PLANTAS SUPERIORES",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB252",
+    "name": "BIOMAS E ECOSSISTEMAS AMAZÔNICOS",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB325",
+    "name": "ILUSTRAÇÃO CIENTÍFICA: AQUARELA",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBB650",
+    "name": "MACRÓFITAS AQUÁTICAS",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBF091",
+    "name": "TOXICOLOGIA PARA BIOLOGIA",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBG016",
+    "name": "SEMINÁRIOS DE GENÉTICA",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBP035",
+    "name": "MICOTECNOLOGIA",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBP038",
+    "name": "MICOLOGIA BÁSICA",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBP044",
+    "name": "IMUNOLOGIA DE PEIXES",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IBP055",
+    "name": "MICROBIOLOGIA DO SOLO",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  },
+  {
+    "course": 2,
+    "period": null,
+    "code": "IHP123",
+    "name": "LINGUA BRASILEIRA DE SINAIS B",
+    "category": "OPTATIVAS",
+    "page": 4,
+    "req": []
+  }
+]
